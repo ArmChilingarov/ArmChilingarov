@@ -9,7 +9,7 @@ Hi, I'm Armen Chilingaryan!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Engineer;Freelancer;&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://drive.google.com/file/d/1veikEXbHzJJ2G4gx9Y73fnrOklpmRcqF" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/ArmChilingarov/Armen-Chilingaryan/blob/main/images/DSC06037-2.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
