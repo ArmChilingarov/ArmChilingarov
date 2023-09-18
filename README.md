@@ -56,7 +56,7 @@ ArmenChilingaryan@github
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armChilingarov&langs_count=8&theme=algolia&layout=compact) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armChilingarov&langs_count=8&theme=algolia&layout=compact)
 
 
 
