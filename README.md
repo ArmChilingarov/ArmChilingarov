@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Armen Chilingaryan!
+Hi, I'm Armen!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://portfolio-alpha-two-45.vercel.app/images/portfolio_bg.png" align='right' alt="Simon" />-->
 <br/>
